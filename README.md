@@ -19,3 +19,7 @@ demo link
 
 7.Video to Audio Converter
 demo link
+
+8.Smart Learning Scheduler
+demo link :
+
