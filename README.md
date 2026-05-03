@@ -8,7 +8,7 @@ demo link
 3.QR code generator
 demo link
 
-4.Student Detail Page
+4.Student Detail Page    
 demo link
 
 5.To Do List
