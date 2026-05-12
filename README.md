@@ -5,7 +5,7 @@ demo link :
 2. Mony Tracker
 demo link
  
-3.QR code generator
+3.QR code generator   
 demo link
 
 4.Student Detail Page    
