@@ -34,6 +34,8 @@ Demo Link:
 12.SharedWallet
 Demo link:
 
+13.Fruit Ninja
+Demo Link : 
 
 https://ranjith2025.neocities.org/
 
