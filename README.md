@@ -43,7 +43,8 @@ Demo Link:
 15. zip tool
 Demo Link:
 
-16. 
+16. Interest Calculator
+
 
 https://ranjith2025.neocities.org/
 
