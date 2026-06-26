@@ -7,7 +7,7 @@ demo link
          
 3.QR code generator       
 demo link
-  
+    
 4.Student Detail Page    
 demo link     
 
